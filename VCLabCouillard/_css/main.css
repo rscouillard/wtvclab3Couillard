@@ -8,6 +8,7 @@ html {
   -webkit-text-size-adjust: 100%;
 }
 html, body  {
+	background-color: #OE6655;
 	margin: 0;
 }
 /* Correct `block` display not defined in IE 8/9.*/
@@ -31,7 +32,7 @@ audio:not([controls]) {
    ========================================================================== */
 
 a {
-  background-color:#196F3D;
+  background: transparent;
 }
 
 /* Improve readability when focused and also mouse hovered in all browsers.*/
